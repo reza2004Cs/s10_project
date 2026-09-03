@@ -2,4 +2,4 @@ GitHub Pull Request Demo
 Version 1.0
 This change was added via a Pull Request.
 Second update for testing squash.
-Code review demonstration.
+This change demonstrates the GitHub code review workflow and explains the purpose of the Pull Request.
